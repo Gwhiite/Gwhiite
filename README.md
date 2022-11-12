@@ -1,6 +1,6 @@
 <div id="header" align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="275"></img></div><br>
 
-<h2 align="center">🧰 Toolbox</h2>
+<h1 align="center">🧰 Toolbox</h1>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"></img>
