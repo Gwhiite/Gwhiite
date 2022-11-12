@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-🧰 Toolbox
+<h1>🧰 Toolbox</h1>
 <br>
 <br>
 <br>
