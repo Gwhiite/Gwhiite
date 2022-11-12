@@ -3,8 +3,10 @@
 
 
 ---
+
+<h2 align="center">🧰 Toolbox</h2>
 <div align="center">
-<h2>🧰 Toolbox</h2>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"></img>
