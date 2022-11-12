@@ -4,8 +4,7 @@
 
 ---
 <div align="center">
-<h1>🧰 Toolbox</h1>
-<br>
+<h2>🧰 Toolbox</h2>
 <br>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"></img>
