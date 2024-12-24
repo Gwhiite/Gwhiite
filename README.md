@@ -2,7 +2,7 @@
 
 <h1 align="center">🧰 Toolbox</h1>
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" width="50"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50"></img>
@@ -13,6 +13,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width="50"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"></img>
 </div>
 
 ---
