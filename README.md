@@ -1,4 +1,4 @@
-<div id="header" align="center"><img src="<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="275"></img></div><br>
+<div id="header" align="center"><img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="275"></img></div><br>
 
 <h1 align="center">🧰 Toolbox</h1>
 <div align="center">
